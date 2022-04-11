@@ -1,0 +1,2144 @@
+{
+	 [
+		{
+			"id": 1,
+			"nome": "Banco do Brasil S.A.",
+			"codigoIspb": "0",
+			"codigo": "1",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 55,
+			"nome": "Banco Da Amazonia S.A",
+			"codigoIspb": "4902979",
+			"codigo": "3",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 64,
+			"nome": "Banco Do Nordeste Do Brasil S.A.",
+			"codigoIspb": "7237373",
+			"codigo": "4",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 141,
+			"nome": "Bndes (Banco Nacional Do Desenvolvimento Social)",
+			"codigoIspb": "33657248",
+			"codigo": "7",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 209,
+			"nome": "Credicoamo",
+			"codigoIspb": "81723108",
+			"codigo": "10",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 184,
+			"nome": "C.Suisse Hedging-Griffo Cv S.A (Credit Suisse)",
+			"codigoIspb": "61809182",
+			"codigo": "11",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 54,
+			"nome": "Banco InbursA",
+			"codigoIspb": "4866275",
+			"codigo": "12",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 75,
+			"nome": "Natixis Brasil S.A",
+			"codigoIspb": "9274232",
+			"codigo": "14",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 40,
+			"nome": "Ubs Brasil Cctvm S.A",
+			"codigoIspb": "2819125",
+			"codigo": "15",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 53,
+			"nome": "Ccm Desp Trâns Sc E Rs",
+			"codigoIspb": "4715685",
+			"codigo": "16",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 149,
+			"nome": "Bny Mellon Banco S.A",
+			"codigoIspb": "42272526",
+			"codigo": "17",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 163,
+			"nome": "Banco Tricury S.A",
+			"codigoIspb": "57839805",
+			"codigo": "18",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 122,
+			"nome": "Banco Banestes S.A",
+			"codigoIspb": "28127603",
+			"codigo": "21",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 85,
+			"nome": "Bco Bandepe S.A",
+			"codigoIspb": "10866788",
+			"codigo": "24",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 45,
+			"nome": "Banco Alfa S.A.",
+			"codigoIspb": "3323840",
+			"codigo": "25",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 145,
+			"nome": "Banco Itaú Consignado S.A",
+			"codigoIspb": "33885724",
+			"codigo": "29",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 12,
+			"nome": "Santander (Brasil) S.A.",
+			"codigoIspb": "90400888",
+			"codigo": "33",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 62,
+			"nome": "Banco Bbi S.A",
+			"codigoIspb": "6271464",
+			"codigo": "36",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 57,
+			"nome": "Banco Do Estado Do Pará S.A",
+			"codigoIspb": "4913711",
+			"codigo": "37",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 47,
+			"nome": "Banco Cargill S.A",
+			"codigoIspb": "3609817",
+			"codigo": "40",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 17,
+			"nome": "Banco do Estado do Rio Grande do Sul S.A. - Banrisul ",
+			"codigoIspb": "92702067",
+			"codigo": "41",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 91,
+			"nome": "Banco Bco Do Estado De Sergipe S.A",
+			"codigoIspb": "13009717",
+			"codigo": "47",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 56,
+			"nome": "Confidence Cc S.A",
+			"codigoIspb": "4913129",
+			"codigo": "60",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 42,
+			"nome": "Hipercard Bm S.A",
+			"codigoIspb": "3012230",
+			"codigo": "62",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 49,
+			"nome": "Banco Bradescard",
+			"codigoIspb": "4184779",
+			"codigo": "63",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 51,
+			"nome": "Goldman Sachs Do Brasil Bm S.A",
+			"codigoIspb": "4332281",
+			"codigo": "64",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 154,
+			"nome": "Banco Andbank S.A",
+			"codigoIspb": "48795256",
+			"codigo": "65",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 39,
+			"nome": "Banco Morgan Stanley S.A",
+			"codigoIspb": "2801938",
+			"codigo": "66",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 175,
+			"nome": "Banco Crefisa S.A",
+			"codigoIspb": "61033106",
+			"codigo": "69",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 20,
+			"nome": "BRB - Banco de Brasília S.A.",
+			"codigoIspb": "208",
+			"codigo": "70",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 43,
+			"nome": "Bco. J.Safra S.A",
+			"codigoIspb": "3017677",
+			"codigo": "74",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 46,
+			"nome": "Bco Abn Amro S.A",
+			"codigoIspb": "3532415",
+			"codigo": "75",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 68,
+			"nome": "Banco Kdb Brasil S.A.",
+			"codigoIspb": "7656500",
+			"codigo": "76",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 9,
+			"nome": "Banco Inter S.A.",
+			"codigoIspb": "416968",
+			"codigo": "77",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 147,
+			"nome": "Haitong Bi Do Brasil S.A",
+			"codigoIspb": "34111187",
+			"codigo": "78",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 78,
+			"nome": "Banco Original Do Agronegócio S.A",
+			"codigoIspb": "9516419",
+			"codigo": "79",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 202,
+			"nome": "B&T Cc LtdA",
+			"codigoIspb": "73622748",
+			"codigo": "80",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 79,
+			"nome": "Bbn Banco Brasileiro De Negocios S.A",
+			"codigoIspb": "10264663",
+			"codigo": "81",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 69,
+			"nome": "Banco Topázio S.A",
+			"codigoIspb": "7679404",
+			"codigo": "82",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 83,
+			"nome": "Banco Da China Brasil S.A",
+			"codigoIspb": "10690848",
+			"codigo": "83",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 37,
+			"nome": "Uniprime Norte Do Paraná",
+			"codigoIspb": "2398976",
+			"codigo": "84",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 60,
+			"nome": "Coop Central Ailos",
+			"codigoIspb": "5463212",
+			"codigo": "85",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 187,
+			"nome": "Ccr Reg MogianA",
+			"codigoIspb": "62109566",
+			"codigo": "89",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 30,
+			"nome": "Unicred Central Rs",
+			"codigoIspb": "1634601",
+			"codigo": "91",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 90,
+			"nome": "Brk S.A",
+			"codigoIspb": "12865507",
+			"codigo": "92",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 71,
+			"nome": "Pólocred Scmepp LtdA",
+			"codigoIspb": "7945233",
+			"codigo": "93",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 87,
+			"nome": "Banco Finaxis",
+			"codigoIspb": "11758741",
+			"codigo": "94",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 86,
+			"nome": "Banco Confidence De Câmbio S.A",
+			"codigoIspb": "11703662",
+			"codigo": "95",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 26,
+			"nome": "Banco B3 S.A",
+			"codigoIspb": "997185",
+			"codigo": "96",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 52,
+			"nome": "Ccc Noroeste Brasileiro LtdA",
+			"codigoIspb": "4632856",
+			"codigo": "97",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 206,
+			"nome": "Credialiança Ccr",
+			"codigoIspb": "78157146",
+			"codigo": "98",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 44,
+			"nome": "Uniprime Central Ccc LtdA",
+			"codigoIspb": "3046391",
+			"codigo": "99",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 25,
+			"nome": "Planner Corretora De Valores S.A",
+			"codigoIspb": "806535",
+			"codigo": "100",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 192,
+			"nome": "Renascenca Dtvm LtdA",
+			"codigoIspb": "62287735",
+			"codigo": "101",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 34,
+			"nome": "Xp Investimentos S.A",
+			"codigoIspb": "2332886",
+			"codigo": "102",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 11,
+			"nome": "Caixa Economica Federal",
+			"codigoIspb": "360305",
+			"codigo": "104",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 67,
+			"nome": "Lecca Cfi S.A",
+			"codigoIspb": "7652226",
+			"codigo": "105",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 99,
+			"nome": "Banco Bocom Bbm S.A",
+			"codigoIspb": "15114366",
+			"codigo": "107",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 32,
+			"nome": "Portocred S.A",
+			"codigoIspb": "1800019",
+			"codigo": "108",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 148,
+			"nome": "Banco Oliveira Trust Dtvm S.A",
+			"codigoIspb": "36113876",
+			"codigo": "111",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 182,
+			"nome": "Magliano S.A",
+			"codigoIspb": "61723847",
+			"codigo": "113",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 61,
+			"nome": "Central Cooperativa De Crédito No Estado Do Espírito Santo",
+			"codigoIspb": "5790149",
+			"codigo": "114",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 212,
+			"nome": "Advanced Cc LtdA",
+			"codigoIspb": "92856905",
+			"codigo": "117",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 80,
+			"nome": "Standard Chartered Bi S.A",
+			"codigoIspb": "11932017",
+			"codigo": "118",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 96,
+			"nome": "Banco Western Union",
+			"codigoIspb": "13720915",
+			"codigo": "119",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 139,
+			"nome": "Banco Rodobens S.A",
+			"codigoIspb": "33603457",
+			"codigo": "120",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 82,
+			"nome": "Banco Agibank S.A",
+			"codigoIspb": "10664513",
+			"codigo": "121",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 135,
+			"nome": "Banco Bradesco Berj S.A",
+			"codigoIspb": "33147315",
+			"codigo": "122",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 101,
+			"nome": "Banco Woori Bank Do Brasil S.A",
+			"codigoIspb": "15357060",
+			"codigo": "124",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 152,
+			"nome": "Brasil Plural S.A Banco",
+			"codigoIspb": "45246410",
+			"codigo": "125",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 93,
+			"nome": "Br Partners Bi",
+			"codigoIspb": "13220493",
+			"codigo": "126",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 77,
+			"nome": "Codepe Cvc S.A",
+			"codigoIspb": "9512542",
+			"codigo": "127",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 112,
+			"nome": "Ms Bank S.A Banco De Câmbio",
+			"codigoIspb": "19307785",
+			"codigo": "128",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 111,
+			"nome": "Ubs Brasil Bi S.A",
+			"codigoIspb": "18520834",
+			"codigo": "129",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 76,
+			"nome": "Caruana Scfi",
+			"codigoIspb": "9313766",
+			"codigo": "130",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 183,
+			"nome": "Tullett Prebon Brasil Cvc LtdA",
+			"codigoIspb": "61747085",
+			"codigo": "131",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 109,
+			"nome": "Icbc Do Brasil Bm S.A",
+			"codigoIspb": "17453575",
+			"codigo": "132",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 81,
+			"nome": "Cresol Confederação",
+			"codigoIspb": "10398952",
+			"codigo": "133",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 143,
+			"nome": "Bgc Liquidez Dtvm LtdA",
+			"codigoIspb": "33862244",
+			"codigo": "134",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 21,
+			"nome": "Unicred CooperativA",
+			"codigoIspb": "315557",
+			"codigo": "136",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 89,
+			"nome": "Multimoney Cc LtdA",
+			"codigoIspb": "12586596",
+			"codigo": "137",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 84,
+			"nome": "Get Money Cc LtdA",
+			"codigoIspb": "10853017",
+			"codigo": "138",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 162,
+			"nome": "Intesa Sanpaolo Brasil S.A",
+			"codigoIspb": "55230916",
+			"codigo": "139",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 189,
+			"nome": "Easynvest – Título Cv S.A",
+			"codigoIspb": "62169875",
+			"codigo": "140",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 104,
+			"nome": "Broker Brasil Cc LtdA",
+			"codigoIspb": "16944141",
+			"codigo": "142",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 41,
+			"nome": "Treviso Cc S.A",
+			"codigoIspb": "2992317",
+			"codigo": "143",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 92,
+			"nome": "Bexs Banco De Cambio S.A.",
+			"codigoIspb": "13059145",
+			"codigo": "144",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 157,
+			"nome": "Levycam Ccv LtdA",
+			"codigoIspb": "50579044",
+			"codigo": "145",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 117,
+			"nome": "Guitta Cc LtdA",
+			"codigoIspb": "24074692",
+			"codigo": "146",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 102,
+			"nome": "Facta S.A. Cfi",
+			"codigoIspb": "15581638",
+			"codigo": "149",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 73,
+			"nome": "Icap Do Brasil Ctvm LtdA",
+			"codigoIspb": "9105360",
+			"codigo": "157",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 58,
+			"nome": "Casa Credito S.A",
+			"codigoIspb": "5442029",
+			"codigo": "159",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 115,
+			"nome": "Commerzbank Brasil S.A Banco Múltiplo",
+			"codigoIspb": "23522214",
+			"codigo": "163",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 199,
+			"nome": "Banco Olé Bonsucesso Consignado S.A",
+			"codigoIspb": "71371686",
+			"codigo": "169",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 59,
+			"nome": "Albatross Ccv S.A",
+			"codigoIspb": "5452073",
+			"codigo": "172",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 95,
+			"nome": "Brl Trust Dtvm SA",
+			"codigoIspb": "13486793",
+			"codigo": "173",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 150,
+			"nome": "Pernambucanas Financ S.A",
+			"codigoIspb": "43180355",
+			"codigo": "174",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 195,
+			"nome": "Guide",
+			"codigoIspb": "65913436",
+			"codigo": "177",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 38,
+			"nome": "Cm Capital Markets Cctvm LtdA",
+			"codigoIspb": "2685483",
+			"codigo": "180",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 119,
+			"nome": "Dacasa Financeira S/A",
+			"codigoIspb": "27406222",
+			"codigo": "182",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 74,
+			"nome": "Socred S.A",
+			"codigoIspb": "9210106",
+			"codigo": "183",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 106,
+			"nome": "Banco Itaú Bba S.A",
+			"codigoIspb": "17298092",
+			"codigo": "184",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 142,
+			"nome": "Ativa S.A Investimentos",
+			"codigoIspb": "33775974",
+			"codigo": "188",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 66,
+			"nome": "Hs FinanceirA",
+			"codigoIspb": "7512441",
+			"codigo": "189",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 48,
+			"nome": "Servicoop",
+			"codigoIspb": "3973814",
+			"codigo": "190",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 50,
+			"nome": "Nova Futura Ctvm LtdA",
+			"codigoIspb": "4257795",
+			"codigo": "191",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 113,
+			"nome": "Parmetal Dtvm LtdA",
+			"codigoIspb": "20155248",
+			"codigo": "194",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 131,
+			"nome": "Banco Fair Cc S.A",
+			"codigoIspb": "32648370",
+			"codigo": "196",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 103,
+			"nome": "Stone Pagamentos S.A",
+			"codigoIspb": "16501555",
+			"codigo": "197",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 168,
+			"nome": "Banco Bradesco Cartoes S.A",
+			"codigoIspb": "59438325",
+			"codigo": "204",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 125,
+			"nome": "Banco Btg Pactual S.A",
+			"codigoIspb": "30306294",
+			"codigo": "208",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 13,
+			"nome": "Banco Original S.A.",
+			"codigoIspb": "92894922",
+			"codigo": "212",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 161,
+			"nome": "Bco Arbi S.A",
+			"codigoIspb": "54403563",
+			"codigo": "213",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 211,
+			"nome": "Banco John Deere S.A",
+			"codigoIspb": "91884981",
+			"codigo": "217",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 197,
+			"nome": "BS2 S.A.",
+			"codigoIspb": "71027866",
+			"codigo": "218",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 204,
+			"nome": "Banco Crédit Agricole Br S.A",
+			"codigoIspb": "75647891",
+			"codigo": "222",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 165,
+			"nome": "Banco Fibra S.A",
+			"codigoIspb": "58616418",
+			"codigo": "224",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 194,
+			"nome": "Banco CifrA",
+			"codigoIspb": "62421979",
+			"codigo": "233",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 7,
+			"nome": "Bradesco S.A. ",
+			"codigoIspb": "60746948",
+			"codigo": "237",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 2,
+			"nome": "Bradesco S.A.",
+			"codigoIspb": "60746948",
+			"codigo": "237",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 127,
+			"nome": "Banco Classico S.A",
+			"codigoIspb": "31597552",
+			"codigo": "241",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 146,
+			"nome": "Banco Máxima S.A",
+			"codigoIspb": "33923798",
+			"codigo": "243",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 123,
+			"nome": "ABC Brasil S.A.",
+			"codigoIspb": "28195667",
+			"codigo": "246",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 177,
+			"nome": "Banco Investcred Unibanco S.A",
+			"codigoIspb": "61182408",
+			"codigo": "249",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 156,
+			"nome": "Banco Bcv",
+			"codigoIspb": "50585090",
+			"codigo": "250",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 159,
+			"nome": "Bexs Cc S.A",
+			"codigoIspb": "52937216",
+			"codigo": "253",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 97,
+			"nome": "Parana Banco S.A",
+			"codigoIspb": "14388334",
+			"codigo": "254",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 4,
+			"nome": "Nu Pagamentos S.A.",
+			"codigoIspb": "18236120",
+			"codigo": "260",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 140,
+			"nome": "Banco Fator S.A",
+			"codigoIspb": "33644196",
+			"codigo": "265",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 134,
+			"nome": "Banco Cedula S.A",
+			"codigoIspb": "33132044",
+			"codigo": "266",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 98,
+			"nome": "Barigui Ch",
+			"codigoIspb": "14511781",
+			"codigo": "268",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 160,
+			"nome": "Hsbc Banco De Investimento",
+			"codigoIspb": "53518684",
+			"codigo": "269",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 180,
+			"nome": "Sagitur Cc LtdA",
+			"codigoIspb": "61444949",
+			"codigo": "270",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 121,
+			"nome": "Ib Cctvm LtdA",
+			"codigoIspb": "27842177",
+			"codigo": "271",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 72,
+			"nome": "Ccr De São Miguel Do Oeste",
+			"codigoIspb": "8253539",
+			"codigo": "273",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 88,
+			"nome": "Senff S.A",
+			"codigoIspb": "11970623",
+			"codigo": "276",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 120,
+			"nome": "Genial Investimentos Cvm S.A",
+			"codigoIspb": "27652684",
+			"codigo": "278",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 118,
+			"nome": "Ccr De Primavera Do Leste",
+			"codigoIspb": "26563270",
+			"codigo": "279",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 116,
+			"nome": "Avista S.A",
+			"codigoIspb": "23862762",
+			"codigo": "280",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 210,
+			"nome": "Rb Capital Investimentos Dtvm LtdA",
+			"codigoIspb": "89960090",
+			"codigo": "283",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 201,
+			"nome": "Frente Cc LtdA",
+			"codigoIspb": "71677850",
+			"codigo": "285",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 70,
+			"nome": "Ccr De Ouro",
+			"codigoIspb": "7853842",
+			"codigo": "286",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 191,
+			"nome": "Carol Dtvm LtdA",
+			"codigoIspb": "62237649",
+			"codigo": "288",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 5,
+			"nome": "Pagseguro Internet S.A",
+			"codigoIspb": "8561701",
+			"codigo": "290",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 198,
+			"nome": "Bs2 Distribuidora De Títulos E Investimentos",
+			"codigoIspb": "28650236",
+			"codigo": "292",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 200,
+			"nome": "Lastro Rdv Dtvm LtdA",
+			"codigoIspb": "71590442",
+			"codigo": "293",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 110,
+			"nome": "Vips Cc LtdA",
+			"codigoIspb": "17772370",
+			"codigo": "298",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 132,
+			"nome": "Banco La Nacion ArgentinA",
+			"codigoIspb": "33042151",
+			"codigo": "300",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 94,
+			"nome": "Bpp Instituição De Pagamentos S.A",
+			"codigoIspb": "13370835",
+			"codigo": "301",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 114,
+			"nome": "Vortx Dtvm LtdA",
+			"codigoIspb": "22610500",
+			"codigo": "310",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 178,
+			"nome": "BMG S.A.",
+			"codigoIspb": "61186680",
+			"codigo": "318",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 65,
+			"nome": "Banco Ccb Brasil S.A",
+			"codigoIspb": "7450604",
+			"codigo": "320",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 6,
+			"nome": "Mercadopago.Com Representacoes Ltda.",
+			"codigoIspb": "10573521",
+			"codigo": "323",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 3,
+			"nome": "Digio S.A.",
+			"codigoIspb": "27098060",
+			"codigo": "335",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 213,
+			"nome": "Banco C6 S.A.",
+			"codigoIspb": "28326000",
+			"codigo": "336",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 36,
+			"nome": "Super Pagamentos S/A (Superdital)",
+			"codigoIspb": "9554480",
+			"codigo": "340",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 10,
+			"nome": "Itaú Unibanco S.A.",
+			"codigoIspb": "60701190",
+			"codigo": "341",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 35,
+			"nome": "Banco Xp S/A",
+			"codigoIspb": "33264668",
+			"codigo": "348",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 181,
+			"nome": "Banco Societe Generale Brasil",
+			"codigoIspb": "61533584",
+			"codigo": "366",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 176,
+			"nome": "Banco Mizuho S.A",
+			"codigoIspb": "61088183",
+			"codigo": "370",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 136,
+			"nome": "Banco J.P. Morgan S.A",
+			"codigoIspb": "33172537",
+			"codigo": "376",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 215,
+			"nome": "PICPAY SERVIÇOS S.A.",
+			"codigoIspb": "0",
+			"codigo": "380",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "02/03/2021",
+			"dataAlteracao": "02/03/2021"
+		},
+		{
+			"id": 105,
+			"nome": "Banco Mercantil Do Brasil S.A.",
+			"codigoIspb": "17184037",
+			"codigo": "389",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 18,
+			"nome": "Banco Mercantil Do Brasil S.A",
+			"codigoIspb": "17184037",
+			"codigo": "389",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 63,
+			"nome": "Banco Bradesco Financiamentos S.A",
+			"codigoIspb": "7207996",
+			"codigo": "394",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 31,
+			"nome": "Kirton Bank",
+			"codigoIspb": "1701201",
+			"codigo": "399",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 100,
+			"nome": "Banco Capital S.A",
+			"codigoIspb": "15173776",
+			"codigo": "412",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 19,
+			"nome": "Safra S.A.",
+			"codigoIspb": "58160789",
+			"codigo": "422",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 170,
+			"nome": "Banco Mufg Brasil S.A",
+			"codigoIspb": "60498557",
+			"codigo": "456",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 171,
+			"nome": "Banco Sumitomo Mitsui Brasil S.A",
+			"codigoIspb": "60518222",
+			"codigo": "464",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 137,
+			"nome": "Banco Caixa Geral Brasil S.A",
+			"codigoIspb": "33466988",
+			"codigo": "473",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 133,
+			"nome": "Citibank N.A",
+			"codigoIspb": "33042953",
+			"codigo": "477",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 169,
+			"nome": "Banco Itaubank S.A",
+			"codigoIspb": "60394079",
+			"codigo": "479",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 193,
+			"nome": "Deutsche Bank S.A Banco Alemão",
+			"codigoIspb": "62331228",
+			"codigo": "487",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 153,
+			"nome": "Jpmorgan Chase Bank",
+			"codigoIspb": "46518205",
+			"codigo": "488",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 155,
+			"nome": "Ing Bank N.V",
+			"codigoIspb": "49336860",
+			"codigo": "492",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 158,
+			"nome": "Banco Rep Oriental Uruguay",
+			"codigoIspb": "51938876",
+			"codigo": "494",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 151,
+			"nome": "La Provincia Buenos Aires Banco",
+			"codigoIspb": "44189447",
+			"codigo": "495",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 130,
+			"nome": "Banco Credit Suisse (Brl) S.A",
+			"codigoIspb": "32062580",
+			"codigo": "505",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 108,
+			"nome": "Senso Ccvm S.A",
+			"codigoIspb": "17352220",
+			"codigo": "545",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 166,
+			"nome": "Banco Luso Brasileiro S.A",
+			"codigoIspb": "59118133",
+			"codigo": "600",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 129,
+			"nome": "Banco Industrial Do Brasil S.A",
+			"codigoIspb": "31895683",
+			"codigo": "604",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 207,
+			"nome": "Banco Vr S.A",
+			"codigoIspb": "78626983",
+			"codigo": "610",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 185,
+			"nome": "Banco PaulistA",
+			"codigoIspb": "61820817",
+			"codigo": "611",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 128,
+			"nome": "Banco Guanabara S.A",
+			"codigoIspb": "31880826",
+			"codigo": "612",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 172,
+			"nome": "Omni Banco S.A",
+			"codigoIspb": "60850229",
+			"codigo": "613",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 167,
+			"nome": "PAN S.A.",
+			"codigoIspb": "59285411",
+			"codigo": "623",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 179,
+			"nome": "Banco Ficsa S.A",
+			"codigoIspb": "61348538",
+			"codigo": "626",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 164,
+			"nome": "Banco Intercap S.A",
+			"codigoIspb": "58497702",
+			"codigo": "630",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 196,
+			"nome": "Banco Rendimento S.A",
+			"codigoIspb": "68900810",
+			"codigo": "633",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 107,
+			"nome": "Banco Triangulo S.A (Banco Triângulo)",
+			"codigoIspb": "17351180",
+			"codigo": "634",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 8,
+			"nome": "Banco Sofisa S.A (Sofisa Direto)",
+			"codigoIspb": "60889128",
+			"codigo": "637",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 144,
+			"nome": "Banco Alvorada S.A",
+			"codigoIspb": "33870163",
+			"codigo": "641",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 188,
+			"nome": "Banco Pine S.A",
+			"codigoIspb": "62144175",
+			"codigo": "643",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 173,
+			"nome": "Itaú Unibanco Holding Bm S.A",
+			"codigoIspb": "60872504",
+			"codigo": "652",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 174,
+			"nome": "Banco Indusval S.A",
+			"codigoIspb": "61024352",
+			"codigo": "653",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 214,
+			"nome": "Banco A.J. Renner S.A",
+			"codigoIspb": "92874270",
+			"codigo": "654",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 15,
+			"nome": "Votorantim S.A.",
+			"codigoIspb": "59588111",
+			"codigo": "655",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 190,
+			"nome": "Banco Daycoval S.A",
+			"codigoIspb": "62232889",
+			"codigo": "707",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 208,
+			"nome": "Banco Ourinvest S.A",
+			"codigoIspb": "78632767",
+			"codigo": "712",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 23,
+			"nome": "Banco Cetelem S.A",
+			"codigoIspb": "558456",
+			"codigo": "739",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 22,
+			"nome": "Banco Ribeirão Preto",
+			"codigoIspb": "517645",
+			"codigo": "741",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 24,
+			"nome": "Banco Semear S.A",
+			"codigoIspb": "795423",
+			"codigo": "743",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 138,
+			"nome": "Banco Citibank S.A",
+			"codigoIspb": "33479023",
+			"codigo": "745",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 126,
+			"nome": "Modal S.A.",
+			"codigoIspb": "30723886",
+			"codigo": "746",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 27,
+			"nome": "Banco Rabobank Internacional Do Brasil S.A",
+			"codigoIspb": "1023570",
+			"codigo": "747",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 28,
+			"nome": "Sicredi",
+			"codigoIspb": "1181521",
+			"codigo": "748",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 124,
+			"nome": "Scotiabank Brasil",
+			"codigoIspb": "29030467",
+			"codigo": "751",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 29,
+			"nome": "Bnp Paribas Brasil S.A",
+			"codigoIspb": "1522368",
+			"codigo": "752",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 203,
+			"nome": "Novo Banco Continental S.A Bm",
+			"codigoIspb": "74828799",
+			"codigo": "753",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 205,
+			"nome": "Banco SistemA",
+			"codigoIspb": "76543115",
+			"codigo": "754",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 186,
+			"nome": "Bofa Merrill Lynch Bm S.A",
+			"codigoIspb": "62073200",
+			"codigo": "755",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		},
+		{
+			"id": 14,
+			"nome": "Sicoob",
+			"codigoIspb": "2038232",
+			"codigo": "756",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "09/02/2021"
+		},
+		{
+			"id": 33,
+			"nome": "Banco Keb Hana Do Brasil S.A",
+			"codigoIspb": "2318507",
+			"codigo": "757",
+			"status": 1,
+			"convenioCnab240": "0",
+			"dataCadastro": "26/05/2020",
+			"dataAlteracao": "26/05/2020"
+		}
+	]
+}
